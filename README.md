@@ -217,11 +217,11 @@ Faça login com as credenciais de teste.
 
 ### 🔑 Rotas da API
 
-**GET /api/index.php?rota=alunos** – Lista alunos.
+**GET /api/?rota=alunos** – Lista alunos.
 
-**GET /api/index.php?rota=alunos/{id}** – Retorna dados do aluno + notas.
+**GET /api//api/?rota=alunos_id** – Retorna dados do aluno + notas.
 
-**GET /api/index.php?rota=notas** – Lista todas as notas cadastradas.
+**GET /api/?rota=notas** – Lista todas as notas cadastradas.
 
 ---
 
